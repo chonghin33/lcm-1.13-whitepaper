@@ -26,5 +26,8 @@ Each hash value corresponds to a unique semantic theory file created as part of 
 `5c21eb759a4747075129892ee2845df1fed534f2647ff66c249614f2267ca841`
 
 ---
+### 3. MPL and SDP
+**Hash:**  
+`7eb3bf9308098fa7ef8ba6490ec35f76b2b770522b5333923645df7ac56649d5`
 
 These hashes serve as cryptographic proof of the original authorship by Vincent Shing Hin Chong and can be verified using any SHA-256 hash verification tool.
