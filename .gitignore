@@ -1,0 +1,24 @@
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+
+# Markdown artifacts
+*.pdf~
+*.md~
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Hash & timestamp
+*.ots
+*.sha256
