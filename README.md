@@ -66,3 +66,4 @@ Feedback, replication efforts, and critical readings are welcome.
 All forks and derivative works must retain the original author’s attribution and the license structure as specified.
 
 ---
+For collaboration details → [collaboration.md](collaboration.md)
