@@ -8,6 +8,8 @@
 **Status:** Hash-sealed & Timestamped via OpenTimestamps  
 **License:** CC BY-SA 4.0 International  
 **DOI:** [10.17605/OSF.IO/4FEAZ](https://doi.org/10.17605/OSF.IO/4FEAZ)
+**ORCID:** https://orcid.org/0009-0000-8198-6278  
+**Contact:** chonghin33@outlook.com (Open for collaboration)
 
 ---
 
@@ -38,6 +40,12 @@ The system supports stable semantic loops, dynamic control modules, and regenera
 - **Appendix C** — Regenerative Prompt Tree (RPT) – Structural Definition and Theoretical Role 
   Supplementary article
 
+#### Theories:
+-**LCM Definition**
+
+-**Strutural Gap supplemented by LCM**
+
+-**Meta-prompt layering and Semantic Directive Prompt
 ---
 
 ### ⚖️ License
@@ -53,9 +61,9 @@ You may share and adapt this work, provided you give appropriate credit and dist
 
 If you wish to cite this white paper:
 
-Chong, V.S.H. (2025). Language Construct Modeling (LCM): A Language-Native Framework for Modular Semantic Control in LLMs. Version 1.13, Hash-sealed. OSF. https://doi.org/10.17605/OSF.IO/4FEAZ
+Chong, V. S. H. (2025, April 22). Language Construct Modeling  (LCM): A Language-Native Framework for Modular Semantic Control in LLMs. https://doi.org/10.17605/OSF.IO/84TDB
 
-
+All original documents, including the white paper, appendices and supplementary documents , are hash-sealed and timestamped via OpenTimestamps. This ensures verifiable authorship, integrity, and temporal priority of the entire Language Construct Modeling (LCM) v1.13 framework.
 ---
 
 ### 🙋 Questions & Contributions
