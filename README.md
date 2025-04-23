@@ -8,7 +8,6 @@
 **Status:** Hash-sealed & Timestamped via OpenTimestamps  
 **License:** CC BY-SA 4.0 International  
 **DOI:** [10.17605/OSF.IO/4FEAZ](https://doi.org/10.17605/OSF.IO/4FEAZ) 
-
 **ORCID:** https://orcid.org/0009-0000-8198-6278  
 **Contact:** chonghin33@outlook.com (Open for collaboration)
 
