@@ -3,7 +3,8 @@ message: "If you use this framework, please cite the following."
 title: "Language Construct Modeling (LCM): A Language-Native Framework for Modular Semantic Control in LLMs"
 version: "v1.13"
 doi: "10.17605/OSF.IO/4FEAZ"
-date-released: 2025-04-22
+doi: "10.17605/OSF.IO/4FEAZ"
+date-released: April 2025
 authors:
   - family-names: Chong
     given-names: Vincent Shing Hin
