@@ -15,5 +15,5 @@ The author affirms that this work is original and has been hash-verified and tim
 
 ---
 
-**DOI / OSF Project Link**: _(To be inserted after OSF publication)_  
-**GitHub Repository**: _(To be inserted after upload)_
+**DOI / OSF Project Link**: _(https://osf.io/4feaz/)_  
+**GitHub Repository**: _(https://github.com/chonghin33/lcm-1.13-whitepaper)_
