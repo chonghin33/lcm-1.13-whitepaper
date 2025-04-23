@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite the following."
+title: "Language Construct Modeling (LCM): A Language-Native Framework for Modular Semantic Control in LLMs"
+version: "v1.13"
+doi: "10.17605/OSF.IO/4FEAZ"
+date-released: 2025-04-22
+authors:
+  - family-names: Chong
+    given-names: Vincent Shing Hin
+    orcid: https://orcid.org/0009-0000-8198-6278
+    affiliation: Independent Researcher (Hong Kong)
+keywords:
+  - Language Modeling
+  - Prompt Engineering
+  - Modular Semantics
+  - Meta Prompt Layering
+  - Semantic Control
+license: "CC-BY-SA-4.0"
+url: "https://github.com/chonghin33/lcm-1.13-whitepaper/"
+type: "white-paper"
