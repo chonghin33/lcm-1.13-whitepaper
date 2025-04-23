@@ -48,3 +48,10 @@ This file is part of the official release candidate for LCM v1.13.
 
 > © 2025 Vincent Shing Hin Chong – All rights reserved under CC BY-SA 4.0  
 > [DOI: 10.17605/OSF.IO/4FEAZ](https://doi.org/10.17605/OSF.IO/4FEAZ)
+
+🔒 License & Usage Notice
+This repository and all associated documents, including their structure, naming, and theoretical contents, are released under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+
+Redistribution, reuse, or derivative work must include full attribution to the original author Vincent Shing Hin Chong, and must be licensed under the same terms.
+Unauthorized claims of authorship or misrepresentation of original creation date constitute academic and legal violations under international intellectual property law.
+For license details, see: https://creativecommons.org/licenses/by-sa/4.0/
