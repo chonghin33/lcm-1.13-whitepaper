@@ -45,7 +45,8 @@ The system supports stable semantic loops, dynamic control modules, and regenera
 
 -**Strutural Gap supplemented by LCM**
 
--**Meta-prompt layering and Semantic Directive Prompt
+-**Meta-prompt layering and Semantic Directive Prompt**
+
 ---
 
 ### ⚖️ License
