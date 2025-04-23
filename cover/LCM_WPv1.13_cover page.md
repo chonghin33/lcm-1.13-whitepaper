@@ -17,3 +17,5 @@ The author affirms that this work is original and has been hash-verified and tim
 
 **DOI / OSF Project Link**: _(https://osf.io/4feaz/)_  
 **GitHub Repository**: _(https://github.com/chonghin33/lcm-1.13-whitepaper)_
+
+All original documents, including the white paper and appendices, are hash-sealed and timestamped via OpenTimestamps. This ensures verifiable authorship, integrity, and temporal priority of the entire Language Construct Modeling (LCM) v1.13 framework.
