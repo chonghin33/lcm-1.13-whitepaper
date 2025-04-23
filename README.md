@@ -22,6 +22,11 @@ This repository hosts the official release of the white paper:
 
 LCM introduces a novel modular semantic control system designed for use within large language models (LLMs). It provides a recursive framework for prompt structuring and regenerative semantic behavior using a layered approach built on **Meta Prompt Layering (MPL)**.
 
+LCM does not require any internal modification to the language model.
+All structural logic, modular composition, control recursion, and regenerative behavior are implemented through language itself — via prompt-based layering and semantic orchestration.
+
+This framework is fully language-native, requiring no fine-tuning, no scripting, and no API calls. It demonstrates that a large language model can act as a modular reasoning system purely through structured prompt logic.
+
 The system supports stable semantic loops, dynamic control modules, and regenerative prompt trees (RPTs), making it suitable for scalable, interpretable prompt-based reasoning in LLMs.
 
 ---
