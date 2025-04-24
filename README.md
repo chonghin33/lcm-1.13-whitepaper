@@ -81,4 +81,23 @@ Feedback, replication efforts, and critical readings are welcome.
 All forks and derivative works must retain the original author’s attribution and the license structure as specified.
 
 ---
+
+License & Commercial Use Notice
+
+This repository is licensed under CC BY-SA 4.0.
+
+However, due to the structural nature of this work as a semantic framework, the following clause applies:
+
+Semantic Commercial Use Clause
+Any commercial deployment or productization of this framework — or its derivative application as a service, system, or plugin — requires direct permission and licensing from the author.
+
+This includes, but is not limited to:
+	•	Use in commercial SaaS tools
+	•	Integration into proprietary LLM-based agents
+	•	Paid educational or consultancy platforms
+	•	Any private modification not shared back under the same license
+
+To request commercial use or collaboration, please contact:
+Vincent Chong – chonghin33@outlook.com
+
 For collaboration details → [collaboration.md](collaboration.md)
