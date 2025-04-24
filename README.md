@@ -103,8 +103,4 @@ To request commercial use or collaboration, please contact:
 Vincent Chong – chonghin33@outlook.com
 ------
 
-Framework: Semantic Logic System (SLS)  
-Version: v1.0  
-Author: Vincent Shing Hin Chong  
-License: CC BY SA 4.0  
-Contact: chonghin33@outlook.com
+
