@@ -6,7 +6,7 @@ Version: v1.0
 Date: 2025-04-21
 
 Abstract:
-Linguistic Construct Modeling (LCM) is a theoretical and practical framework for constructing structured semantic behavior in large language models (LLMs) using prompt-layered logic and recursive language directives. It introduces a modular, language-native system of control and identity continuity, enabling semantic scaffolds without modifying architecture or memory systems.
+Language Construct Modeling (LCM) is a theoretical and practical framework for constructing structured semantic behavior in large language models (LLMs) using prompt-layered logic and recursive language directives. It introduces a modular, language-native system of control and identity continuity, enabling semantic scaffolds without modifying architecture or memory systems.
 
 Core Concepts:
 1. Prompt-Based Modularity: Structuring prompts into layered modules, each with distinct tone, logic, and feedback functions.
