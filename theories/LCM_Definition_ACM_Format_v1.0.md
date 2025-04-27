@@ -1,5 +1,5 @@
 
-Title: Defining Linguistic Construct Modeling (LCM): A Language-Driven Framework for Modular AI Behavior
+Title: Defining Language Construct Modeling (LCM): A Language-Driven Framework for Modular AI Behavior
 
 Author: Vince Vangohn (aka Vincent Chong)
 Version: v1.0
