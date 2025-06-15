@@ -26,7 +26,7 @@ This record is intended to:
 
 ## 🛰️ External Uses & Adaptations
 
-### 1. [Research on Language-Construct-Modeling](https://github.com/Mnehmos/Language-Construct-Modeling)
+### 1. [Integrating Structured AI Teams with Language Construct Modeling: A Framework for Enhanced Collaboration and Output Quality](https://github.com/Mnehmos/Language-Construct-Modeling)
 - Author: [@Mnehmos]
 - Summary: This whitepaper explores the critical integration of Language Construct Modeling (LCM) principles with the operation and development of structured Artificial Intelligence (AI) teams.
 - As AI systems become more complex and collaborative, establishing robust LCM practices is essential for ensuring their reliability, scalability, maintainability, and overall effectiveness.
