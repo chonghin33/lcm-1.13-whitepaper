@@ -19,7 +19,7 @@ This record is intended to:
 
 > LCM (Language Construct Modeling) is a semantic logic framework based entirely on natural language. It enables structured prompt-based modules to simulate role feedback, self-referential tone locking, and modular behavioral scaffolding — without requiring backend code or plugins.
 
-🔗 Original whitepaper: [10.17605/OSF.IO/4FEAZV]  
+🔗 Original whitepaper: [Language Construct Modeling (LCM): A Language-Native Framework for Modular Semantic Control in LLMs] (https://osf.io/4feaz/)
 📅 Timestamped archive: PLEASE REFER TO THE REPO
 
 ---
