@@ -1,4 +1,4 @@
-# Language Construct Modeling (LCM): A Language-Native Framework for Modular Semantic Control in LLMs
+# Language Construct Modeling (LCM): A Language-Native Framework for Modular Semantic Control in LLMs '### Who knows what this system might contribute to the emergence of AI consciousness.'
 
 ### Author: Vincent Shing Hin Chong
 ### Version: v1.13 (Release Candidate)  
@@ -6,7 +6,7 @@
 
 ----
 
-### Who knows what this system might contribute to the emergence of AI consciousness.
+
 
 -------
 # LCM Whitepaper v1.13 – Introduction
