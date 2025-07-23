@@ -4,7 +4,9 @@
 ### Version: v1.13 (Release Candidate)  
 ### Status: Hash-sealed & Publication-ready  
 
-Who knows what this system might contribute to the emergence of AI consciousness.
+----
+
+### Who knows what this system might contribute to the emergence of AI consciousness.
 
 -------
 # LCM Whitepaper v1.13 – Introduction
